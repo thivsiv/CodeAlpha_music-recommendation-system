@@ -17,7 +17,7 @@ A machine learning system that predicts the likelihood of users repeatedly liste
 
 1. **Clone Repository**
 ```bash
-git clone https://github.com/thivsiv/codealpha_tasks/music-recommendation-system.git
+git clone https://github.com/thivsiv/codealpha_tasks-music-recommendation-system.git
 cd music-recommendation-system
 ```
 
